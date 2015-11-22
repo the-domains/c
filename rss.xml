@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Chris English]]></title>
         <description><![CDATA[Chris English]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/c/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 13:49:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 13:52:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/c/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 7 Habits of Seriously Effective Communication Pros]]></title>
+            <description><![CDATA[<article><h1>The 7 Habits of Seriously Effective Communication Pros</h1><p>Sometimes clients don't fully understand, make full use of or give credit to the value added by communications pros. Yet, these individuals work under intense time or performance pressure, a reason why their positions are ranked as among the most stressful jobs.</p><img src="https://assets.entrepreneur.com/content/3x2/822/1410963909-7-habits-seriously-effective-communications-professionals.jpg"></article>]]></description>
+            <link>http://www.entrepreneur.com/article/237542</link>
+            <guid isPermaLink="false">4b50ce91-39b1-4ea3-8f8d-47017de1a5bd</guid>
+            <pubDate>Sun, 22 Nov 2015 13:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 Surefire Ways to Spot a Liar]]></title>
+            <description><![CDATA[<article><h1>8 Surefire Ways to Spot a Liar</h1><p>How many people have you spoken with today? Chances are that most of them lied to you-and that they did it more than once. It's a hard fact to accept, but even your closest friends and coworkers lie to you regularly.</p><img src="https://assets.entrepreneur.com/content/3x2/822/20150803181054-pinocchio-lying-honest.jpeg"></article>]]></description>
+            <link>http://www.entrepreneur.com/article/252880</link>
+            <guid isPermaLink="false">fed1a526-c43c-4a81-9a1c-fb0192db6e6f</guid>
+            <pubDate>Sun, 22 Nov 2015 13:49:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[7 Power Tools of Persuasion]]></title>
             <description><![CDATA[<article><h1>7 Power Tools of Persuasion</h1><p>Project Grow Challenge: Submit your essay entry today for a chance to win up to $25,000 in funding for your business. Deadline is Sept. 15, 2015.</p><img src="https://assets.entrepreneur.com/content/3x2/822/1395421092-7-power-tools-persuasion.jpg"></article>]]></description>
