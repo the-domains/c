@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chris English]]></title>
+        <description><![CDATA[Chris English]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 13:49:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[7 Power Tools of Persuasion]]></title>
+            <description><![CDATA[<article><h1>7 Power Tools of Persuasion</h1><p>Project Grow Challenge: Submit your essay entry today for a chance to win up to $25,000 in funding for your business. Deadline is Sept. 15, 2015.</p><img src="https://assets.entrepreneur.com/content/3x2/822/1395421092-7-power-tools-persuasion.jpg"></article>]]></description>
+            <link>http://www.entrepreneur.com/article/232369</link>
+            <guid isPermaLink="false">b7a03e48-bf05-4fa4-93bc-548ec28a4c8b</guid>
+            <pubDate>Sun, 22 Nov 2015 13:49:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
