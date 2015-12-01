@@ -1,7 +1,7 @@
 name: c
 favicon: null
-layout_spectrum: 0.5
-typography_spectrum: 0.91823
+layout_spectrum: 0.94619
+typography_spectrum: 0.23952
 title: Chris English
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#01110e'
+    - '#1e81d6'
+    - '#99d9d3'
+    - '#ff3366'
   brandStrength: 0.5
   lightness: 0.7409741296432912
   saturation: 0.625
